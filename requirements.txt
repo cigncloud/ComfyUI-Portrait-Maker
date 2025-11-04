@@ -11,5 +11,5 @@ insightface
 diffusers==0.18.2
 sentencepiece
 addict
-datasets
+datasets<2.20.0
 oss2

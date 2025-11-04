@@ -10,3 +10,6 @@ matplotlib
 insightface
 diffusers==0.18.2
 sentencepiece
+addict
+datasets
+oss2
